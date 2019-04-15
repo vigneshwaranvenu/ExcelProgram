@@ -1,0 +1,150 @@
+Record 1:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id	"00000900"
+         crd_acpt_ciac_id     "199000924000091"
+         unq_term_id          "00000900199000924000091"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909496692174"
+         visa_mer_num         "6464909496692174"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20960794"
+--
+Record 2:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "00994900"
+         crd_acpt_ciac_id     "199000922099499"
+         unq_term_id          "00994900199000922099499"
+         term_typ             "0009"
+         term_class           "F909"
+         mast_mer_num         "6464909291769242"
+         visa_mer_num         "6464909291769242"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20019921"
+--
+Record 3:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000600"
+         crd_acpt_ciac_id     "199000924900066"
+         unq_term_id          "09000600199000924900066"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909499916664"
+         visa_mer_num         "6464909499916664"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990499"
+--
+Record 4:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000609"
+         crd_acpt_ciac_id     "199000924900066"
+         unq_term_id          "09000609199000924900066"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909499916664"
+         visa_mer_num         "6464909499916664"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990499"
+--
+Record 5:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000700"
+         crd_acpt_ciac_id     "199000924900074"
+         unq_term_id          "09000700199000924900074"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909499990046"
+         visa_mer_num         "6464909499990046"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990499"
+--
+Record 6:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000100"
+         crd_acpt_ciac_id     "199000924900019"
+         unq_term_id          "09000100199000924900019"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909490466296"
+         visa_mer_num         "6464909490466296"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990494"
+--
+Record 7:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000109"
+         crd_acpt_ciac_id     "199000924900019"
+         unq_term_id          "09000109199000924900019"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909490466296"
+         visa_mer_num         "6464909490466296"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990494"
+--
+Record 8:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000102"
+         crd_acpt_ciac_id     "199000924900019"
+         unq_term_id          "09000102199000924900019"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909490466296"
+         visa_mer_num         "6464909490466296"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990494"
+--
+Record 9:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000900"
+         crd_acpt_ciac_id     "199000924900099"
+         unq_term_id          "09000900199000924900099"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909490092699"
+         visa_mer_num         "6464909490092699"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990499"
+--
+Record 10:
+
+[record
+  info [record
+  data [record
+         crd_acpt_term_id     "09000909"
+         crd_acpt_ciac_id     "199000924900099"
+         unq_term_id          "09000909199000924900099"
+         term_typ             "0066"
+         term_class           "F909"
+         mast_mer_num         "6464909490092699"
+         visa_mer_num         "6464909490092699"
+         cup_mer_num          "0000000000000000"
+         term_bus_date        "20990499"
+		 
